@@ -10,7 +10,7 @@ class Dog:
         print("The dog is sitting.")    
 
 fido = Dog()
-fido = Dog()
+fido = Dog()  
 
 fido.bark()
 fido.sit()
